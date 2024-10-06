@@ -36,7 +36,7 @@ __**[MB2 Loader mod arm64](https://raw.githubusercontent.com/CallMeSoumya2063/Ra
 8. Now you should see a new option (com.mojang) popping up in NMM side-menu. If yes, then congrats! Now you can use this option to access Minecraft's storage easily.
 
 ### Method using Files app by Marc apps & software:
-1. Install and open [Files app app](<https://play.google.com/store/apps/details?id=com.marc.files>) by Marc apps & software.
+1. Install and open [Files app](<https://play.google.com/store/apps/details?id=com.marc.files>) by Marc apps & software.
 2. Tap ≡ in top left corner. In the side menu, choose "MB Loader" or "Draco Loader" or "MB2 Loader"
 3. This step is different depending on your Minecraft settings:
 - If your "storage" in Minecraft settings is set to "External", tap these following the sequence: `android_data` → `files` → `games` → `com.mojang` . This is where your game files are stored.
