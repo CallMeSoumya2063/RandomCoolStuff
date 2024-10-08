@@ -1,22 +1,22 @@
 ## Mods of [MB loader app](<https://github.com/bambosan/MaterialBinLoader-Apk>)
 
-__**[MB Loader mod arm64](https://raw.githubusercontent.com/CallMeSoumya2063/RandomCoolStuff/main/MB%20Loader_v1.0_arm64_mod.apk)**__
+__**[MB Loader mod (arm64 + arm32)](https://raw.githubusercontent.com/CallMeSoumya2063/RandomCoolStuff/main/MB%20Loader_v1.0_arm64_arm32_mod.apk)**__
 » Features:
-- loads Materialbinloader in arm64 Minecraft PE.
+- loads Materialbinloader in arm64 and arm32 Minecraft PE, including Minecraft from Google Play Store.
 - working in 1.21.31, other versions are untested but may or may not work.
 - has shader autofixer (automatic updater for shaders)
 - injected documents provider for easier files access
 
-__**[Draco Loader mod arm64](https://raw.githubusercontent.com/CallMeSoumya2063/RandomCoolStuff/main/Draco%20Loader_v1.0_arm64_mod.apk)**__
+__**[Draco Loader mod (arm64 + arm32)](https://raw.githubusercontent.com/CallMeSoumya2063/RandomCoolStuff/main/Draco%20Loader_v1.0_arm64_arm32_mod.apk)**__
 » Features:
-- loads draco in arm64 Minecraft PE.
+- loads Draco in arm64 and arm32 Minecraft PE, including Minecraft from Google Play Store.
 - should™ work with most versions because of draco.
 - has shader autofixer (automatic updater for shaders)
 - injected documents provider for easier files access
 
-__**[MB2 Loader mod arm64](https://raw.githubusercontent.com/CallMeSoumya2063/RandomCoolStuff/main/MB2%20Loader_v1.0_arm64_mod.apk)**__
+__**[MB2 Loader mod (arm64 + arm32)](https://raw.githubusercontent.com/CallMeSoumya2063/RandomCoolStuff/main/MB2%20Loader_v1.0_arm64_arm32_mod.apk)**__
 » Features:
-- loads Materialbinloader2 ([GitHub repo with source code](<https://github.com/mcbegamerxx954/mtbinloader2>)) in arm64 Minecraft PE.
+- loads Materialbinloader2 ([GitHub repo with source code](<https://github.com/mcbegamerxx954/mtbinloader2>)) in arm64 and arm32 Minecraft PE, including Minecraft from Google Play Store.
 - working in 1.21.31, other versions are untested but may or may not work.
 - has shader autofixer (automatic updater for shaders)
 - injected documents provider for easier files access
