@@ -1,3 +1,20 @@
+# ⚠️ Outdated!
+## Please use MB Loader app from Google Play Store! The files in this page are outdated as of now. There are more features and bug fixes, as well as frequent updates and active development going on in Google Play's version.
+
+## For more information on how to use MB Loader from Google Play Store, refer to [YSS Group's announcement](https://discord.com/channels/738688684223889409/738689909786935336/1337845288374767628):
+> **MB Loader App**
+> *Can launch MC with the shader loader of your choice without needing to download separate apks.*
+> 
+> We are looking for testers to join and provide feedback on a project that has been in the works for the last few weeks.
+> **Requirements -**
+> - Android Device 
+> - A vanilla installation of Minecraft with no patches applied.
+> If you meet the criteria, click on the Google Groups link below and click on the `Join Group` button to be added to the testers list.
+[Testers Group Link](https://groups.google.com/g/mb-loader-testing)
+> After doing so head to the Play Store link below and download the app. (Make sure you are using the same Google account used to join the Google Group.)
+[Play Store Link](https://play.google.com/store/apps/details?id=io.bambosan.mbloader)
+> Now, open the app and choose the shader loader of your choice and launch MC.
+
 ## Mods of [MB loader app](<https://github.com/bambosan/MaterialBinLoader-Apk>)
 
 __**[MB Loader mod (arm64 + arm32)](https://raw.githubusercontent.com/CallMeSoumya2063/RandomCoolStuff/main/MB%20Loader_v1.0_arm64_arm32_mod.apk)**__
